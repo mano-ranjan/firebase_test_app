@@ -1,0 +1,58 @@
+# Flutter & Dart related files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# iOS-related files
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.framework
+ios/Flutter/engine/
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS-related files
+macos/Flutter/ephemeral/
+macos/Flutter/Flutter.framework
+macos/Flutter/GeneratedPluginRegistrant.swift
+macos/Flutter/Flutter.podspec
+macos/.symlinks/
+macos/Pods/
+macos/Runner.xcworkspace/
+
+# Android-related files
+android/.gradle/
+android/app/build/
+android/local.properties
+android/gradle/wrapper/gradle-wrapper.properties
+android/gradle.properties
+
+# VS Code settings
+.vscode/
+
+# IntelliJ / Android Studio settings
+.idea/
+*.iml
+
+# Web & Linux ephemeral files
+web/.dart_tool/
+web/manifest.json
+linux/flutter/ephemeral/
+
+# Windows-related files
+windows/flutter/ephemeral/
+
+# Obsolete .DS_Store and log files
+*.DS_Store
+*.log
+
+# Generated files
+coverage/
